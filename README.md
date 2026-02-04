@@ -1,4 +1,4 @@
-# Mutex Spinlock Demonstration (Java)
+# Mutex Spinlock Demonstration
 
 ## Overview
 
