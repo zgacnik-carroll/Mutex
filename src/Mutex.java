@@ -1,9 +1,10 @@
-public class Mutex {
-    public boolean acquire() {
+public final class Mutex {
+
+    public synchronized boolean acquire() {
         return true;
     }
 
-    public void release() {
+    public synchronized void release() {
         return;
     }
 }
